@@ -1,0 +1,19 @@
+@import "./normalize.css";
+
+html {
+  box-sizing: border-box !important;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Roboto, sans-serif;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit !important;
+}
